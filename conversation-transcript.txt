@@ -1,0 +1,101 @@
+CONVERSATION TRANSCRIPT
+
+User:
+create me a website using html with an about me page, and 5 unlabeled pages for future learning outcomes, and a page for me to cite ai. these are the 5 names for the unlabeled pages: Explain key moments in the historical development of AI and ML and relate them to modern AI systems. Identify and discuss ethical issues associated with AI and ML and their societal implications. Describe how core AI techniques such as search and adversarial reasoning are used to model intelligent behavior. Explain fundamental machine learning approaches and distinguish between major learning paradigms. Describe how generative AI and large language models operate at a conceptual level and evaluate their appropriate use.
+
+Assistant:
+Created the portfolio website with an about page, five learning outcome pages, an AI citation guide, and shared responsive styling.
+
+Open index.html to get started. The other pages and styles.css are in the same folder.
+
+User:
+include on my about me page: My name is BillyBob Baumgartner and I am an AI and Machine Learning Major. I am a 4 year 1 co-op student and am considering graduating a year early. I was always interested in engineering and more the software side and when I visited Drexel last winter as an admitted student who was in general engineering, I got to speak to Dr. Dario Salvucci who seemed very passionate in what he was promoting when explaining to us the new AI major and it really involved me into interest in that path and was a time when ai had shown up in my life. He showed us a modeling ai simulator of code for every possible outcome of a crossword with homophones which was mind blowing. My goal is to find a remote job where I can work on projects from home while travelling the world and I would love to find a job that I'm truly enjoying and am passionate about because I love learning and applying my skills to real challenges.
+           Outside of school and work I love hanging out and watching movies with friends, my favorites are Se7en and Interstellar. I love math and computer science classes because they challenge me in a puzzle sort of way and classes without adversity before solution are dissatisfactory. I go to the gym and was a mechanic for two years during high school where I learned the importance of developing my brain, so I don't have to sacrifice my body for work. I love rock climbing and I love the rain, moving from Phoenix, Arizona has been quite the fulfilling change of scenery and weather for me. I look forward to building off of previous knowledge in this class while also getting a wider scope of some broader concepts as well this quarter.
+
+Assistant:
+Added your introduction and personal details to the about page, including how you became interested in AI, your academic plans, career goals, interests, and what you’re looking forward to learning this quarter.
+
+Open your updated about page: C:\Users\billy\Documents\Codex\2026-09-23\create-me-a-website-using-html-2\outputs\index.html
+
+User:
+also add that i am most interested in Describe how core AI techniques such as search and adversarial reasoning are used to model intelligent behavior because I find it interesting analyzing how AI models use mathematics to search and model.
+
+Assistant:
+Added your interest in search and adversarial reasoning to the about page, with a link to Learning Outcome 3. It highlights your interest in how AI uses mathematics to search through possibilities and model intelligent behavior.
+
+User:
+remove the word "homophones" from my ai crossword encounter and also make the "a few things beyond class" one of the little notes in the "what motivates me" section instead of its own. Make the format blue and silver
+
+Assistant:
+Removed “homophones,” moved your movies, climbing, and love of the rain into the “What motivates me” section, and updated the site’s colors to blue and silver.
+
+Open your updated about page: C:\Users\billy\Documents\Codex\2026-09-23\create-me-a-website-using-html-2\outputs\index.html
+
+User:
+instead of questions im exploring make it "5 learning outcomes" and have the ai source page its own page at the end for sourcing not as an outcome
+
+Assistant:
+Updated the about page heading to “5 learning outcomes” and removed the AI citation guide from the outcomes grid. The guide now has its own Sourcing & attribution section at the end of the page, linking to its separate page.
+
+User:
+can i view it
+
+Assistant:
+Opened the updated about page in Codex.
+
+User:
+give me the index location of the page
+
+Assistant:
+The index page is here: C:\Users\billy\Documents\Codex\2026-09-23\create-me-a-website-using-html-2\outputs\index.html
+
+User:
+just gimme the code bro
+
+Assistant:
+C:\Users\billy\Documents\Codex\2026-09-23\create-me-a-website-using-html-2\outputs\index.html
+
+User:
+for the entire website
+
+Assistant:
+The entire website is in:
+C:\Users\billy\Documents\Codex\2026-09-23\create-me-a-website-using-html-2\outputs\
+
+Open index.html to start. All the other pages and styles.css are in that folder too.
+
+User:
+how do i open those
+
+Assistant:
+Open File Explorer and paste this into the address bar:
+C:\Users\billy\Documents\Codex\2026-09-23\create-me-a-website-using-html-2\outputs
+
+Then double-click index.html to open the website in your browser.
+
+User:
+give me the css file too pls
+
+Assistant:
+C:\Users\billy\Documents\Codex\2026-09-23\create-me-a-website-using-html-2\outputs\styles.css
+
+User:
+the link
+
+Assistant:
+Open the CSS file: C:\Users\billy\Documents\Codex\2026-09-23\create-me-a-website-using-html-2\outputs\styles.css
+
+User:
+can i get the transcript of the whol conversation
+
+Assistant:
+Created conversation-transcript.txt and provided a link to it.
+
+User-provided AI-use notes (September 23, 2026):
+Tool named by user: ChatGPT-6 Astra Codex.
+Purpose: Using AI to develop a website using HTML and CSS to build my portfolio by providing my own personal information while letting the AI guide me with the coding.
+AI contribution: AI developed both entire files of HTML and the CSS code.
+My contribution: I decided on the color, the format of the website with the names of each folder, the layout and order of the folders and my own paragraphs with info about myself.
+
+User:
+can you redo the idex.html file with the transcfript added and cited into the ai citations page using [attached AI-use notes and transcript]
